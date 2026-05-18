@@ -3,7 +3,7 @@
 This project is a Machine Learning web application developed using Streamlit and Support Vector Regression (SVR).
 
 The application predicts target values based on user input features.
-
+streamlit link: https://hp2cmbqotbg482kqyrfaaq.streamlit.app/
 ---
 
 ## Technologies Used
